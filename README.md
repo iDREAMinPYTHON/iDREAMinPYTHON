@@ -1,14 +1,16 @@
-### <h1 align='center'>c(*￣▽￣*)ブ 🅷🅴🆈! Ｉ＇ｍ ░ <a href="https://github.com/iDREAMinPYTHON/">ᴅᏒΞΛm</a> ✌︎ ░ ! ●︎❍︎</h1>
+<h1 align='center'>c(*￣▽￣*)ブ 🅷🅴🆈! Ｉ＇ｍ ░ <a href="https://github.com/iDREAMinPYTHON/">Ａｎｄｒｅ</a> ✌︎ ░ ! ●︎❍︎</h1>
 
-<p align='center'>𝙸'𝚖 𝚊 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚕𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝚂𝚘𝚞𝚝𝚑𝚎𝚛𝚗 𝙲𝚊𝚕𝚒𝚏𝚘𝚛𝚗𝚒𝚊.
+<p align='center'>𝙸'𝚖 an aspiring Cybersecurity Professional.
 <br />
   
   
-<img width='200' height='200' src="https://raw.githubusercontent.com/icons-pack/react-simple-icons/ad02ce74150601b477d7afee8a6dac47708f2b9f/docs/images/svg/react-simple-icons.svg" />
+<img width='200' height='200' src="https://plextrac.com/wp-content/uploads/2019/12/PenetrationTestReporting.png" />
 </p>
-<h2 align='center'>  𝙷𝚎𝚛𝚎'𝚜 𝚠𝚑𝚊𝚝'𝚜 𝚒𝚗 𝚖𝚢 𝙳𝙴𝚅 𝚝𝚘𝚘𝚕 𝚔𝚒𝚝 </h2>
+<h2 align='center'>  Here are the certificates and certifications I've obtained: </h2>
 
-<p align='center'> HTML5 | CSS3 | JS ES6+ | <b>Ｒｅａｃｔ</b> | node | EXPRESS | mongoDB </p>
+<p align='center'> <a href="https://coursera.org/share/110fb38a25441e52b3d06a1d01191dd0">Google IT Support</a> | <a href="https://www.coursera.org/account/accomplishments/specialization/7EAECC7RDLZW"> Google Cybersecurity</a> | Security+ [In progress] </p>
+<p align='center'> <a href="https://www.freecodecamp.org/certification/andrevu/responsive-web-design" style="color: #7752FE;">Responsive Web Design</a> | <a href="https://www.udemy.com/certificate/UC-43a4d119-f9f0-4838-80e9-99366e0be4d3/">The Complete 2021 Web Development Bootcamp</a> </p>
 <br />
-<h2 align='center'><a href="https://iDREAMinPYTHON">【﻿ｉＤＲＥＡＭｉｎＰＹＴＨＯＮ．ｃｏｍ】</a></h2>
-<p align='center'>ｃｏｍｉｎｇ░ｓｏｏｎ</p>
+
+<h2 align='center'> Blog </h3>
+<p align='center'><a href="">ｃｏｍｉｎｇ░ｓｏｏｎ</a></p>
