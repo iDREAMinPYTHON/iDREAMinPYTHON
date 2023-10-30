@@ -1,4 +1,4 @@
-<h1 align='center'>c(*￣▽￣*)ブ 🅷🅴🆈! Ｉ＇ｍ ░ <a href="https://github.com/iDREAMinPYTHON/">Ａｎｄｒｅ</a> ✌︎ ░ ! ●︎❍︎</h1>
+<h1 align='center'>c(*￣▽￣*)ブ 🅷🅴🆈! Ｉ＇ｍ ░ Ａｎｄｒｅ ✌︎ ░ ! ●︎❍︎</h1>
 
 <p align='center'>𝙸'𝚖 an aspiring Cybersecurity Professional.
 <br />
