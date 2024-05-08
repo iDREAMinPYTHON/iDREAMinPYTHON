@@ -1,4 +1,4 @@
-<h1 align='center'>c(*￣▽￣*)ブ 🅷🅴🆈! Ｉ＇ｍ ░ Ａｎｄｒｅ ✌︎ ░ ! ●︎❍︎</h1>
+<h1 align='center'>Hello Friend,</h1>
 
 <p align='center'>𝙸'𝚖 an aspiring Cybersecurity Professional.
 <br />
