@@ -1,6 +1,6 @@
 <h1 align='center'>Hello Friend,</h1>
 
-<p align='center'>𝙸'𝚖 an aspiring Cybersecurity Professional.
+<p align='center'>𝙸'𝚖 Andre, an aspiring Cybersecurity Professional.
 <br />
   
   
